@@ -1,0 +1,77 @@
+10
+
+dir
+147
+http://migratordotnet.googlecode.com/svn/trunk/lib/Npgsql
+http://migratordotnet.googlecode.com/svn
+
+
+
+2008-06-06T02:51:11.933077Z
+71
+dkode8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8c3eb3c4-eb3a-0410-862c-73fa8ce6028b
+
+LICENSE.txt
+file
+
+
+
+
+2011-04-21T17:36:16.225506Z
+34f76b73bf097f623c956376b0593a8a
+2007-09-25T02:09:05.359374Z
+2
+nick.hems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26422
+
+net-2.0
+dir
+
+net-1.1
+dir
+
+mono-1.0
+dir
+
+mono-2.0
+dir
+
+net-3.5
+dir
+

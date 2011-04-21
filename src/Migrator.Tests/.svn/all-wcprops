@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/144/trunk/src/Migrator.Tests
+END
+Migrator.Tests-vs2005.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/121/trunk/src/Migrator.Tests/Migrator.Tests-vs2005.csproj
+END
+ScriptEngineTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/83/trunk/src/Migrator.Tests/ScriptEngineTests.cs
+END
+MigrationLoaderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/src/Migrator.Tests/MigrationLoaderTest.cs
+END
+Migrator.Tests-vs2008.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/125/trunk/src/Migrator.Tests/Migrator.Tests-vs2008.csproj
+END
+ProviderFactoryTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/107/trunk/src/Migrator.Tests/ProviderFactoryTest.cs
+END
+MigrationTypeComparerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/trunk/src/Migrator.Tests/MigrationTypeComparerTest.cs
+END
+MigratorTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/116/trunk/src/Migrator.Tests/MigratorTest.cs
+END
+MigratorTestDates.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/107/trunk/src/Migrator.Tests/MigratorTestDates.cs
+END
+MigrationTestCase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/86/trunk/src/Migrator.Tests/MigrationTestCase.cs
+END
+ColumnPropertyMapperTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/src/Migrator.Tests/ColumnPropertyMapperTest.cs
+END
+SchemaBuilderTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/122/trunk/src/Migrator.Tests/SchemaBuilderTests.cs
+END

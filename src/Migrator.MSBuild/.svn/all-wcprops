@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/143/trunk/src/Migrator.MSBuild
+END
+MigrateTask.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/129/trunk/src/Migrator.MSBuild/MigrateTask.cs
+END
+example-build.proj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/73/trunk/src/Migrator.MSBuild/example-build.proj
+END
+Migrator.MSBuild-vs2008.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/143/trunk/src/Migrator.MSBuild/Migrator.MSBuild-vs2008.csproj
+END
+Migrator.Targets
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/73/trunk/src/Migrator.MSBuild/Migrator.Targets
+END
+MigratorDotNet.snk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/143/trunk/src/Migrator.MSBuild/MigratorDotNet.snk
+END
+Migrator.MSBuild-vs2005.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/121/trunk/src/Migrator.MSBuild/Migrator.MSBuild-vs2005.csproj
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/144/trunk/src/Migrator.Tests/Providers
+END
+TransformationProviderBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/132/trunk/src/Migrator.Tests/Providers/TransformationProviderBase.cs
+END
+SqlServer2005TransformationProviderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/125/trunk/src/Migrator.Tests/Providers/SqlServer2005TransformationProviderTest.cs
+END
+SqlServerCeTransformationProviderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/125/trunk/src/Migrator.Tests/Providers/SqlServerCeTransformationProviderTest.cs
+END
+TransformationProviderConstraintBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/119/trunk/src/Migrator.Tests/Providers/TransformationProviderConstraintBase.cs
+END
+SQLiteTransformationProviderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/125/trunk/src/Migrator.Tests/Providers/SQLiteTransformationProviderTest.cs
+END
+PostgreSQLTransformationProviderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/125/trunk/src/Migrator.Tests/Providers/PostgreSQLTransformationProviderTest.cs
+END
+OracleTransformationProviderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/125/trunk/src/Migrator.Tests/Providers/OracleTransformationProviderTest.cs
+END
+MySqlTransformationProviderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/125/trunk/src/Migrator.Tests/Providers/MySqlTransformationProviderTest.cs
+END
+SqlServerTransformationProviderTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/144/trunk/src/Migrator.Tests/Providers/SqlServerTransformationProviderTest.cs
+END
+GenericProviderTests.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/125/trunk/src/Migrator.Tests/Providers/GenericProviderTests.cs
+END

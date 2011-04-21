@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/103/trunk/lib
+END
+NAnt.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/63/trunk/lib/NAnt.Core.dll
+END
+System.Data.SqlServerCe.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/94/trunk/lib/System.Data.SqlServerCe.dll
+END
+log4net.dll
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/63/trunk/lib/log4net.dll
+END
+System.Data.SQLite.DLL
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/63/trunk/lib/System.Data.SQLite.DLL
+END
+MySql.Data.dll
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/93/trunk/lib/MySql.Data.dll
+END
+Oracle.DataAccess.dll
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/63/trunk/lib/Oracle.DataAccess.dll
+END
+Mono.Data.Sqlite.dll
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/103/trunk/lib/Mono.Data.Sqlite.dll
+END

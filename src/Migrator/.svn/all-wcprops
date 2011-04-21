@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/143/trunk/src/Migrator
+END
+MigrateAnywhere.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/118/trunk/src/Migrator/MigrateAnywhere.cs
+END
+Migrator-vs2005.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/121/trunk/src/Migrator/Migrator-vs2005.csproj
+END
+MigrateUp.cs
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/107/trunk/src/Migrator/MigrateUp.cs
+END
+Migrator-vs2008.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/143/trunk/src/Migrator/Migrator-vs2008.csproj
+END
+MigrationLoader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/107/trunk/src/Migrator/MigrationLoader.cs
+END
+MigrateDown.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/107/trunk/src/Migrator/MigrateDown.cs
+END
+MigrationComparer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/103/trunk/src/Migrator/MigrationComparer.cs
+END
+ProviderFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/122/trunk/src/Migrator/ProviderFactory.cs
+END
+DuplicatedVersionException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/103/trunk/src/Migrator/DuplicatedVersionException.cs
+END
+BaseMigrate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/118/trunk/src/Migrator/BaseMigrate.cs
+END
+Migrator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/118/trunk/src/Migrator/Migrator.cs
+END
+IrreversibleMigrationException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/src/Migrator/IrreversibleMigrationException.cs
+END
+MigratorDotNet.snk
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/143/trunk/src/Migrator/MigratorDotNet.snk
+END

@@ -1,0 +1,17 @@
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\Migrator.MSBuild.dll
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\Migrator.MSBuild.pdb
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\Migrator.dll
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\Migrator.Framework.dll
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\Migrator.Providers.dll
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\Oracle.DataAccess.dll
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\Npgsql.dll
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\MySql.Data.dll
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\System.Data.SQLite.dll
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\Mono.Security.dll
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\Migrator.pdb
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\Migrator.Framework.pdb
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\Migrator.Providers.pdb
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\bin\Debug\Npgsql.xml
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\obj\Debug\Migrator.MSBuild.dll
+C:\Users\jz\Documents\migratordotnet\src\Migrator.MSBuild\obj\Debug\Migrator.MSBuild.pdb

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/63/trunk/lib/NCover
+END
+CoverLib.dll
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/63/trunk/lib/NCover/CoverLib.dll
+END
+NCoverExplorer.MSBuildTasks.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/63/trunk/lib/NCover/NCoverExplorer.MSBuildTasks.xml
+END
+Microsoft.VC80.CRT.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/63/trunk/lib/NCover/Microsoft.VC80.CRT.manifest
+END
+Coverage.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/63/trunk/lib/NCover/Coverage.xsl
+END
+NCover.Console.exe.config
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/63/trunk/lib/NCover/NCover.Console.exe.config
+END
+NCover.Framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/63/trunk/lib/NCover/NCover.Framework.dll
+END
+NCoverFAQ.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/63/trunk/lib/NCover/NCoverFAQ.html
+END
+MSVCP80.dll
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/63/trunk/lib/NCover/MSVCP80.dll
+END
+NCoverExplorer.MSBuildTasks.dll
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/63/trunk/lib/NCover/NCoverExplorer.MSBuildTasks.dll
+END
+MSVCR80.dll
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/63/trunk/lib/NCover/MSVCR80.dll
+END
+NCover.Console.exe
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/63/trunk/lib/NCover/NCover.Console.exe
+END

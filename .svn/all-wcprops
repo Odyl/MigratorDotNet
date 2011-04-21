@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/147/trunk
+END
+Migrator-vs2008.sln
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/143/trunk/Migrator-vs2008.sln
+END
+default.build
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/143/trunk/default.build
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/72/trunk/build.bat
+END
+Migrator-vs2005.sln
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/121/trunk/Migrator-vs2005.sln
+END
+local.properties-example
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/78/trunk/local.properties-example
+END
+HOWTOBUILD.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/76/trunk/HOWTOBUILD.txt
+END

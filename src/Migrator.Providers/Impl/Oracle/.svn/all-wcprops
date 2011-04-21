@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/109/trunk/src/Migrator.Providers/Impl/Oracle
+END
+OracleDialect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/87/trunk/src/Migrator.Providers/Impl/Oracle/OracleDialect.cs
+END
+OracleTransformationProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/109/trunk/src/Migrator.Providers/Impl/Oracle/OracleTransformationProvider.cs
+END

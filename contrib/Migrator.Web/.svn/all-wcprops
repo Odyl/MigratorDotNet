@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/112/trunk/contrib/Migrator.Web
+END
+Global.asax.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/112/trunk/contrib/Migrator.Web/Global.asax.cs
+END
+Migrator.Web.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/112/trunk/contrib/Migrator.Web/Migrator.Web.csproj
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/112/trunk/contrib/Migrator.Web/Web.config
+END
+Default.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/112/trunk/contrib/Migrator.Web/Default.aspx.cs
+END
+Global.asax
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/112/trunk/contrib/Migrator.Web/Global.asax
+END
+Default.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/112/trunk/contrib/Migrator.Web/Default.aspx
+END

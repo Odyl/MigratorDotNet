@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/143/trunk/src/Migrator.NAnt
+END
+MigrateTask.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/128/trunk/src/Migrator.NAnt/MigrateTask.cs
+END
+Migrator.NAnt-vs2005.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/121/trunk/src/Migrator.NAnt/Migrator.NAnt-vs2005.csproj
+END
+Migrator.NAnt-vs2008.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/143/trunk/src/Migrator.NAnt/Migrator.NAnt-vs2008.csproj
+END
+MigratorDotNet.snk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/143/trunk/src/Migrator.NAnt/MigratorDotNet.snk
+END

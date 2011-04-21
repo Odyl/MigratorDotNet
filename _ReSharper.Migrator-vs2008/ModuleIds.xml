@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="FBE3A83A-D0F8-4D72-AF8D-9EF772569A31" ModuleId="Migrator.Console-vs2008" />
+  <Module PersistentId="1FEE70A4-AAD7-4C60-BE60-3F7DC03A8C4D" ModuleId="Migrator-vs2008" />
+  <Module PersistentId="D58C68E4-D789-40F7-9078-C9F587D4363C" ModuleId="Migrator.Providers-vs2008" />
+  <Module PersistentId="5270F048-E580-486C-B14C-E5B9F6E539D4" ModuleId="Migrator.Framework-vs2008" />
+</Modules>

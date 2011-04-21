@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 72
+bin
+*.resharper
+*.user
+_ReSharper.Migrator
+build
+*.suo
+local.properties
+
+END

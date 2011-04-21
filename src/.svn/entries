@@ -1,0 +1,86 @@
+10
+
+dir
+147
+http://migratordotnet.googlecode.com/svn/trunk/src
+http://migratordotnet.googlecode.com/svn
+
+
+
+2010-03-25T22:41:50.316432Z
+146
+geofflane
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8c3eb3c4-eb3a-0410-862c-73fa8ce6028b
+
+Migrator.Providers
+dir
+
+Migrator.Framework
+dir
+
+Migrator.MSBuild
+dir
+
+Migrator.NAnt
+dir
+
+Migrator
+dir
+
+Migrator.Console
+dir
+
+Migrator.Tests
+dir
+
+config
+dir
+
+MigratorDotNet.snk
+file
+
+
+
+
+2011-04-21T17:36:37.013646Z
+36c2b42a6f24252ee3c09811c61fd569
+2010-03-25T22:18:02.388820Z
+143
+geofflane
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+596
+

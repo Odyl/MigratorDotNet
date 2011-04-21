@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/72/trunk/doc/example/migrations
+END
+002_AddAddressColumns.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/72/trunk/doc/example/migrations/002_AddAddressColumns.cs
+END
+001_AddAddressTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/doc/example/migrations/001_AddAddressTable.cs
+END
+003_AddPersonTable.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/72/trunk/doc/example/migrations/003_AddPersonTable.cs
+END

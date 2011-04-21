@@ -1,0 +1,5 @@
+C:\Users\jz\Documents\migratordotnet\src\Migrator.Framework\bin\Debug\Migrator.Framework.dll
+C:\Users\jz\Documents\migratordotnet\src\Migrator.Framework\bin\Debug\Migrator.Framework.pdb
+C:\Users\jz\Documents\migratordotnet\src\Migrator.Framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jz\Documents\migratordotnet\src\Migrator.Framework\obj\Debug\Migrator.Framework.dll
+C:\Users\jz\Documents\migratordotnet\src\Migrator.Framework\obj\Debug\Migrator.Framework.pdb

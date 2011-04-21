@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/110/trunk/src/Migrator.Tests/Tools
+END
+SchemaDumperTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/73/trunk/src/Migrator.Tests/Tools/SchemaDumperTest.cs
+END
+SqlFileLoggerTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/110/trunk/src/Migrator.Tests/Tools/SqlFileLoggerTest.cs
+END

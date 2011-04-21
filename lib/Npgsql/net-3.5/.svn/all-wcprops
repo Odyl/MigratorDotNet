@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/71/trunk/lib/Npgsql/net-3.5
+END
+Mono.Security.Protocol.Tls.license
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/trunk/lib/Npgsql/net-3.5/Mono.Security.Protocol.Tls.license
+END
+Npgsql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/trunk/lib/Npgsql/net-3.5/Npgsql.xml
+END
+Mono.Security.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/71/trunk/lib/Npgsql/net-3.5/Mono.Security.dll
+END
+Npgsql.dll
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/trunk/lib/Npgsql/net-3.5/Npgsql.dll
+END

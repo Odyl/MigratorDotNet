@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/143/trunk/src/Migrator.Framework
+END
+Migrator.Framework-vs2008.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/143/trunk/src/Migrator.Framework/Migrator.Framework-vs2008.csproj
+END
+MigrationAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/103/trunk/src/Migrator.Framework/MigrationAttribute.cs
+END
+Column.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/122/trunk/src/Migrator.Framework/Column.cs
+END
+IMigration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/105/trunk/src/Migrator.Framework/IMigration.cs
+END
+ColumnProperty.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/73/trunk/src/Migrator.Framework/ColumnProperty.cs
+END
+IColumn.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/122/trunk/src/Migrator.Framework/IColumn.cs
+END
+StringUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/73/trunk/src/Migrator.Framework/StringUtils.cs
+END
+ForeignKeyConstraint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/73/trunk/src/Migrator.Framework/ForeignKeyConstraint.cs
+END
+ILogger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/120/trunk/src/Migrator.Framework/ILogger.cs
+END
+MigratorDotNet.snk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/143/trunk/src/Migrator.Framework/MigratorDotNet.snk
+END
+Migrator.Framework-vs2005.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/121/trunk/src/Migrator.Framework/Migrator.Framework-vs2005.csproj
+END
+MigrationException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/73/trunk/src/Migrator.Framework/MigrationException.cs
+END
+Migration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/105/trunk/src/Migrator.Framework/Migration.cs
+END
+ITransformationProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/142/trunk/src/Migrator.Framework/ITransformationProvider.cs
+END

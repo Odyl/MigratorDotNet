@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/146/trunk/src/Migrator.Providers
+END
+Migrator.Providers-vs2008.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/143/trunk/src/Migrator.Providers/Migrator.Providers-vs2008.csproj
+END
+ForeignKeyConstraintMapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/73/trunk/src/Migrator.Providers/ForeignKeyConstraintMapper.cs
+END
+NoOpTransformationProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/142/trunk/src/Migrator.Providers/NoOpTransformationProvider.cs
+END
+ColumnPropertiesMapper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/73/trunk/src/Migrator.Providers/ColumnPropertiesMapper.cs
+END
+TransformationProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/146/trunk/src/Migrator.Providers/TransformationProvider.cs
+END
+TypeNames.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/73/trunk/src/Migrator.Providers/TypeNames.cs
+END
+Dialect.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/87/trunk/src/Migrator.Providers/Dialect.cs
+END
+MigratorDotNet.snk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/143/trunk/src/Migrator.Providers/MigratorDotNet.snk
+END
+Migrator.Providers-vs2005.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/121/trunk/src/Migrator.Providers/Migrator.Providers-vs2005.csproj
+END

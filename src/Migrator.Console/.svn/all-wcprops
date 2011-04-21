@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/143/trunk/src/Migrator.Console
+END
+Migrator.Console-vs2005.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/121/trunk/src/Migrator.Console/Migrator.Console-vs2005.csproj
+END
+Migrator.Console-vs2008.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/143/trunk/src/Migrator.Console/Migrator.Console-vs2008.csproj
+END
+Boot.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/73/trunk/src/Migrator.Console/Boot.cs
+END
+MigratorConsole.cs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/127/trunk/src/Migrator.Console/MigratorConsole.cs
+END
+MigratorDotNet.snk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/143/trunk/src/Migrator.Console/MigratorDotNet.snk
+END
