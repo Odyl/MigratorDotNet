@@ -32,7 +32,7 @@ namespace Migrator.Providers.PostgreSQL
             RegisterColumnType(DbType.StringFixedLength, 4000, "char($l)");
             RegisterColumnType(DbType.String, "varchar(255)");
             RegisterColumnType(DbType.String, 4000, "varchar($l)");
-            RegisterColumnType(DbType.String, 1073741823, "text");
+            RegisterColumnType(DbType.String, 2147483647, "text");
             RegisterColumnType(DbType.Time, "time");
             
             RegisterProperty(ColumnProperty.Identity, "serial");
